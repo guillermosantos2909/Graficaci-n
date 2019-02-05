@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\Figuras_Primitivas\Figuras_Primitivas\bin\Debug\Figuras_Primitivas.exe.config
+C:\Users\PC\source\repos\Figuras_Primitivas\Figuras_Primitivas\bin\Debug\Figuras_Primitivas.exe
+C:\Users\PC\source\repos\Figuras_Primitivas\Figuras_Primitivas\bin\Debug\Figuras_Primitivas.pdb
+C:\Users\PC\source\repos\Figuras_Primitivas\Figuras_Primitivas\obj\Debug\Figuras_Primitivas.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Figuras_Primitivas\Figuras_Primitivas\obj\Debug\Figuras_Primitivas.Form1.resources
+C:\Users\PC\source\repos\Figuras_Primitivas\Figuras_Primitivas\obj\Debug\Figuras_Primitivas.Properties.Resources.resources
+C:\Users\PC\source\repos\Figuras_Primitivas\Figuras_Primitivas\obj\Debug\Figuras_Primitivas.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Figuras_Primitivas\Figuras_Primitivas\obj\Debug\Figuras_Primitivas.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Figuras_Primitivas\Figuras_Primitivas\obj\Debug\Figuras_Primitivas.exe
+C:\Users\PC\source\repos\Figuras_Primitivas\Figuras_Primitivas\obj\Debug\Figuras_Primitivas.pdb
